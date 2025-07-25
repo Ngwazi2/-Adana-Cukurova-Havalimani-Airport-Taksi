@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ngwazi2.github.io/-Adana-Cukurova-Havalimani-Airport-Taksi/sitemap.xml
